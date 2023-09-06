@@ -1,0 +1,14 @@
+let object1: number = 1;
+let object2: number = 2;
+let object3: boolean = object1 == object2;
+let object4: boolean = object1 < object2;
+let object5: boolean = object1 > object2;
+let object6: boolean = object1 != object2;
+let object7: boolean = object1 >= object2;
+let object8: boolean = object1 <= object2;
+console.log(object3);
+console.log(object4);
+console.log(object5);
+console.log(object6);
+console.log(object7);
+console.log(object8);

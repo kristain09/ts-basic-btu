@@ -1,0 +1,14 @@
+var object1 = 1;
+var object2 = 2;
+var object3 = object1 == object2;
+var object4 = object1 < object2;
+var object5 = object1 > object2;
+var object6 = object1 != object2;
+var object7 = object1 >= object2;
+var object8 = object1 <= object2;
+console.log(object3);
+console.log(object4);
+console.log(object5);
+console.log(object6);
+console.log(object7);
+console.log(object8);
